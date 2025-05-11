@@ -1,20 +1,20 @@
-## Responsive Portfolio Website ✨
+# C V Charan - Portfolio
 
-Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
-Website contains: 
-- Header 
-- Home
-- About
-- Skills
-- Qualification
-- Services
-- Portfolio
-- Project in mind
-- Testimonial
-- Contact
-- Footer 
+Welcome to the repository for my personal portfolio website! This project showcases my skills, achievements, projects, and certifications in a visually appealing and interactive manner.
 
-If u liked my website and the code was useful to you, <br>
-feel free to leave a star (much appreciated) fork it and customize as you like! :)
+## 🌟 Features
 
-- Inspired design by Bedimcode-Alexa design 🙌
+- **Home Section**: A brief introduction about me and my expertise.
+- **About Section**: Highlights my background, coding experience, and completed projects.
+- **Skills Section**: Displays my technical and soft skills, including programming languages, tools, and platforms.
+- **Achievements Section**: Showcases my proudest accomplishments and recognitions.
+- **Certificates Section**: Lists all my certifications with downloadable links.
+- **Portfolio Section**: Highlights my featured projects with descriptions, live demos, and source code links.
+- **Contact Section**: Provides ways to get in touch with me, including email, phone, and social media links.
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Frameworks & Libraries**: TailwindCSS, Swiper.js
+- **Design**: Responsive and mobile-first design
+- **Hosting**: Deployed using Vercel
