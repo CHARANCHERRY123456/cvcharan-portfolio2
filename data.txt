@@ -1,0 +1,206 @@
+C V Charan – Full Stack Developer & AI/ML Enthusiast
+
+About Me
+---------
+C V Charan is a passionate Computer Science student with over 2 years of coding experience, specializing in full-stack development (MERN stack) and Python. With a deep interest in artificial intelligence and machine learning, Charan has built impactful projects-ranging from academic portals to NLP tools-and solved 600+ DSA problems on platforms like LeetCode. Always striving for efficiency and intelligence in solutions, Charan’s journey is marked by curiosity, innovation, and a drive to deliver real-world impact.
+
+Skills
+-------
+Programming Languages:
+- Python
+- JavaScript
+- Java
+
+Web Development:
+- React
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- Google OAuth
+- Socket.io
+- MVC Architecture
+- Chart.js
+- Vercel
+- Render
+
+Databases:
+- MongoDB
+- MySQL
+- PostgreSQL
+- Mongoose (ODM)
+- Motor (ORM)
+
+Data Structures & Algorithms:
+- Dynamic Programming
+- Graphs & Trees
+- Sorting & Searching
+- Recursion & Backtracking
+- Linked Lists
+- Stacks, Queues, Heaps
+
+Python Development:
+- Web Scraping
+- FastAPI
+- pymongo
+- pip
+- venv
+- Django
+- SQL
+
+AI / Machine Learning:
+- NumPy
+- Pandas
+- Matplotlib
+- Regression Analysis
+
+Tools & Platforms:
+- Git
+- GitHub
+- Postman
+- VS Code
+
+Soft Skills:
+- Communication
+- Self-Motivation
+- Team Leadership
+- English Speaking
+- Adaptability
+- Hard Work
+- Fast Learning
+
+Special Mentions:
+- MERN Stack
+- NLP
+- Gemini API
+
+Education
+----------
+B.Tech CSE, IIIT RGUKT RK Valley, 2022-2026, CGPA: 8.9
+Pre-University Course, IIIT RGUKT RK Valley, 2020-2022, CGPA: 9.4
+High School, Dr. Varadhappa Naidu MCHS, 2015-2020, GPA: 10
+
+Achievements
+-------------
+- Solved 600+ DSA problems across platforms; LeetCode Knight rank (1850+)
+- 2nd prize, GFG University Coding Contest
+- 1st in Blind Coding
+- Top 5 in LearnSquare Internship
+- 2nd in SaYukth Written Challenge
+- NMMS Scholarship: Awarded ₹36,000 by the Government of India for academic excellence in 8th grade
+- 1st Prize in District-level Essay Competition, awarded by the Collector of Chittoor
+- IIIT RGUKT Selection: Among top 1000 students in Andhra Pradesh after 10th grade
+- Class Representative: Elected CR for ~2 years, showcasing leadership and team management
+- Community Leadership: Manages a 400+ member CSE branch group, sharing academic updates and resources
+
+Certificates
+-------------
+Python:
+- Codio Python 1.1, 2.1, 3.1 (edX)
+- Python Professional Certificate (edX)
+
+Git:
+- IBM CD0131EN Certificate (edX)
+
+SQL:
+- IBM DB0111EN Certificate (edX)
+- StanfordOnline Advanced SQL Certificate (edX)
+
+Web Development:
+- IBM GPXX01K3ENV2 (edX)
+- W3Cx HTML5.0x, 5.1x, CSS.0x (edX)
+- UCDavis WEB1090 (edX)
+
+Java:
+- Java Professional Certificate (edX)
+- UC3Mx IT.1.1x, IT.1.2x, IT.1.3x (edX)
+
+PROJECTS – C V Charan’s High-Impact, Full-Stack & AI Portfolio
+
+1. RkvBros Academic Portal
+---------------------------
+Revolutionizing academic management, the RkvBros Academic Portal is a powerhouse suite built for seamless collaboration and productivity. Engineered with the MERN stack (MongoDB, Express.js, React, Node.js), this platform serves 100+ active users and is packed with robust, scalable, and real-time features:
+
+- Real-time collaboration tools for students and educators, enabling instant communication and teamwork.
+- Deep analytics dashboards, providing actionable insights into academic performance and engagement.
+- Smart automation for assignment management, notifications, and reminders, reducing manual effort and boosting efficiency.
+- Dynamic, role-based access control for students, teachers, and admins, ensuring secure and personalized experiences.
+- Integrated Python bots for automating repetitive tasks and data processing.
+- Live chat, assignment tracking, and data visualization using Chart.js and advanced UI components.
+- Secure authentication and user management, leveraging JWT and OAuth.
+- Deployed with Vercel and MongoDB Atlas for blazing-fast, reliable, and scalable access.
+- Built with modern MVC architecture, ensuring maintainability and extensibility.
+- Gamified elements and habit trackers to boost student engagement and productivity.
+
+This portal is a testament to the power of full-stack, real-time web application development, leveraging the event-driven, non-blocking strengths of Node.js and the dynamic, reusable UI components of React[1][2][3][5][6].
+
+2. LinguaBot (In Progress)
+---------------------------
+LinguaBot is an AI-powered grammar chatbot and language optimizer, set to redefine how users interact with language learning and grammar correction:
+
+- Context-aware conversations powered by custom NLP pipelines and AI models.
+- Seamless integration with Gemini API and Hugging Face for state-of-the-art language understanding and correction.
+- Built on FastAPI and Flutter for a robust backend and sleek, cross-platform mobile experience.
+- Real-time grammar fixes, personalized feedback, and intelligent suggestions to accelerate language mastery.
+- MongoDB-backed persistent data storage for user sessions, chat history, and progress tracking.
+- User ratings, feedback loops, and analytics to continually enhance bot performance.
+- Designed for scalability and high concurrency, handling multiple users with ease.
+
+LinguaBot exemplifies the fusion of AI/ML with modern web and mobile development, pushing the boundaries of what’s possible in interactive, intelligent language tools.
+
+3. CDPC Portal
+----------------
+A next-gen, modular platform for career development and placement, the CDPC Portal is engineered for scale and security:
+
+- JWT-based authentication and protected routing for secure, role-based access.
+- Real-time updates and notifications, keeping users in sync with the latest opportunities and events.
+- Modular dashboards, dynamic data visualization, and mobile-first design for an optimal user experience.
+- Built with ReactJS, TailwindCSS, and deployed on Vercel for lightning-fast performance.
+- Scalable backend and cloud integration for seamless data management.
+
+4. Wild File Server
+--------------------
+Unleashing productivity and motivation, the Wild File Server is a gamified habit tracker and challenge management system:
+
+- Challenge-based tracking, streaks, and social leaderboards to foster healthy competition.
+- Node.js backend with SOLID principles and OOP for maintainability and scalability.
+- Real-time updates, persistent storage, and separation of concerns for robust performance.
+- Designed for both individual and team productivity, adaptable to various use cases.
+
+5. AI Web Scraping Tools
+-------------------------
+Automating the web, these Python-powered scraping tools are built for speed and reliability:
+
+- Automated data extraction using BeautifulSoup and Requests.
+- Scheduled crawlers and real-time analytics dashboards for actionable insights.
+- Integration with data pipelines and visualization tools for end-to-end automation.
+- Dashboard integration for monitoring and managing scraping tasks.
+
+6. AI-Built Attendance Manager
+-------------------------------
+A lightweight, instant-deploy attendance system designed for rapid deployment and ease of use:
+
+- CRUD operations for daily logs and persistent storage.
+- Optimized for low-end systems, built in under 20 minutes for maximum efficiency.
+- Intuitive interface and robust backend for reliable attendance tracking.
+
+Each project is crafted with a relentless focus on scalability, performance, and user experience-leveraging the full power of the MERN stack, Python, and cutting-edge AI technologies. Charan’s portfolio is a showcase of innovation, technical mastery, and a passion for building solutions that make a real-world impact.
+
+KEYWORDS: MERN Stack, Full Stack Development, Real-Time Applications, Scalable Web Apps, MongoDB, Express.js, React, Node.js, Python, FastAPI, Flutter, AI, Machine Learning, NLP, JWT Authentication, Cloud Hosting, Data Visualization, Gamification, Automation, Productivity, Collaboration, Analytics, Role-Based Access, Secure Web Development, Modern UI/UX, Open Source, MVC Architecture, Event-Driven, Non-Blocking, High Performance, Cross-Platform, Mobile-First, Habit Tracking, Chatbot, Language Learning, Data Scraping, Dashboard, Persistent Storage, Rapid Deployment, Innovation, Leadership, Impact.
+
+
+Contact
+--------
+Phone: (+91) 8520811855
+Email: cherryiiit1234@gmail.com
+Location: RK Valley, Andhra Pradesh, India
+LinkedIn: linkedin.com/in/c-v-charan
+GitHub: github.com/CHARANCHERRY123456
+LeetCode: leetcode.com/u/cherrycharan238
+
+Summary
+--------
+C V Charan is a driven, multi-talented developer and AI/ML enthusiast with a proven record in both academics and real-world projects. His expertise spans the MERN stack, Python, Java, and modern web technologies, with a portfolio that demonstrates innovation, leadership, and a commitment to excellence in every endeavor.
