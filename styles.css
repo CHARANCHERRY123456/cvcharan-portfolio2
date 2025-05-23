@@ -87,3 +87,24 @@
     color: var(--text-color);
   }
   
+  .round-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  .round-image {
+    width: clamp(180px, 25vw, 300px); /* Responsive size: min 180px, max 300px */
+    height: clamp(180px, 25vw, 300px);
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #ffffff;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  .round-image:hover {
+    transform: scale(1.05); /* subtle zoom on hover */
+  }
+  
