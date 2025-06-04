@@ -1,0 +1,216 @@
+secitons
+
+1) Personal Contact information
+2) family background
+3) education
+4) skills
+5) projects
+6) achievements
+7) certifications
+objective : 
+
+
+------------------------------              OBJECTIVE        ------------------------------------------------------------
+Aspiring Full Stack Developer with a strong foundation in the MERN stack, currently seeking opportunities in software development to enter the tech industry.
+My short-term goal is to contribute to impactful full-stack projects in fast-paced environments, while continuously upskilling and expanding into the field of Data Science. 
+I am committed to securing a very high-paying role where I can apply my problem-solving skills, modern tech stack knowledge, and real-world project experience.
+My long-term vision is to achieve financial stability, lead a peaceful life, and ensure the safety, happiness, and well-being of my parents and family through professional success.
+
+------------------------------  Personal Contact Information --------------------------------------
+
+I am  C V CHARAN studying in IIIT RGUKT RK VALLEY in idupulapaya kadapa distrcit.
+Phone number : 8520811855
+DOB : 2004 - AUGUST - 05
+email : cherryiiit1234@gmail.com
+Leetcode : https://leetcode.com/u/cherrycharan238/
+GitHub : https://github.com/CHARANCHERRY123456
+Linkedin : https://www.linkedin.com/in/c-v-charan
+GFG : https://www.geeksforgeeks.org/user/cherryiiq4nf/
+
+
+------------------------------       🎓 Education              --------------------------
+
+B.Tech in Computer Science EngineeringIIIT RGUKT RK Valley, 2022 – 2026CGPA: 8.8/10 (currently in 4th year)
+PUC (Intermediate)IIIT RGUKT RK Valley, 2020 – 2022CGPA: 9.3/10
+High School Dr. Vardhapanaidu MCHS, 2016 – 2020GPA: 10.0/10
+
+----------------------------------      👨‍👩‍👧‍👦 Family Background             ----------------------------------
+
+Father: C. Venkatesh – Welder
+Mother: C. V. Sireesha – Homemaker (referred to as house engineer)
+Sister: Also selected for IIIT RGUKT RK Valley
+From a financially poor background; managing academic expenses independently through merit and scholarships.
+
+----------------------------     🛠️ Technical Skills (out of 5) ----------------------------------------
+
+Programming Languages : Python (4.5), Java (3.5), C (3), JavaScript (3)
+Web Development : React.js (4), Node.js (4), Express.js (4), MongoDB(4) , HTML5(4.5), CSS3, Bootstrap, Tailwind CSS, Google OAuth, Socket.io, Chart.js, MVC Architecture, Vercel, Render
+Databases : MongoDB, MySQL, PostgreSQL, Mongoose, Motor ,sqlachemy(upcoming)
+Data Structures & Algorithms : Dynamic Programming, Graphs & Trees, Sorting & Searching, Recursion & Backtracking, Linked Lists, Stacks, Queues, Heaps
+Python Development : Web Scraping, FastAPI(moderate), pymongo(basics), pip, venv, Django(basics), SQL
+AI/ML : NumPy, Pandas, Matplotlib, Regression Analysis(upcoming)
+Tools & Platforms : Git, GitHub, Postman, VS Code, Google Colab, Thunderclient
+Core CS Subjects : Operating Systems (OS), Computer Networks (CN), DBMS, OOPs
+Cloud Services : AWS (basic), Vercel, Render
+Special Mentions : MERN Stack, NLP, Gemini API
+Soft Skills : Communication, Self-Motivated, Team Leadership, English Speaking, Adaptive Nature, Hard Working, Fast Learner
+
+
+
+-----------------------------------              ACHIEVEMENTS             ------------------------------------------
+
+in my 8th class i am selected for the NMMS scholorship which gives a amount of 36k
+i got first price for essay writing in district level and took the price from the collector of chittor distrcit
+i got selected for the iiit rgukt rk valley after my 10th class which only selcet top 1000 students across the ap
+after entering in to the iiit i am elected as the class representative at the beging and nearly not censequently but been 
+for 2years which helped to improve my learship skills
+in my college life i have completed my 50days of python in 100days of python by angela yu which builds strong intrest in coding
+got python dsa  , java  certificates from the edx
+leetocde knight ranking 1850+ and solved  600+ dsa problem across all platforms 
+2nd price in coding contest held by our university with collaboration with gfg and price is a gfg bag
+1st price in bind coding held by our college and won the cash price of 500 rupees
+Top in LearnSquare Internship: Recognized among the top performers in a rigorous internship program.
+Ranked 2nd in SaYukth: Secured second place in a written test challenge
+manging groups consisting of nearly 400 students which is official out cse branch group all the information is shared in there
+and another group to share the content to all the students of my branch mates
+
+
+
+experience:
+
+### 🌐 Frontend Developer – CDPC Portal, SRC — *React, TailwindCSS, JWT*
+
+> Spearheaded the frontend for a live career development portal, collaborating with SRC in real-time agile sprints.
+> Delivered a lightning-fast, responsive UI using React and TailwindCSS, secured with JWT role-based access.
+> Deployed on Vercel with continuous updates, showcasing proficiency in production-ready frontend systems and teamwork in high-stakes academic environments.
+
+**Key Highlights:**
+
+* Production-grade React app with blazing performance
+* Secure role-based routing for faculty and students
+* Hands-on team collaboration and deployment
+
+Projects :
+
+### 🚀 RkvBros Academic Portal — *MERN, Python Scraping, JWT, Recharts*
+
+> A full-scale, scalable academic ecosystem powering 100+ real-time users with blazing-fast search, secure assignment sharing, and live group chats.
+> Leveraged Python-based dynamic web scraping to sync external academic data seamlessly. Implemented role-based authentication using JWT to ensure secure, granular access. Integrated Recharts for powerful, interactive admin analytics dashboards.
+> 🔥 *Showcases advanced system architecture, modular backend logic, and real-world impact at scale.*
+
+**Key Highlights:**
+
+* Real-time full-stack communication and collaboration system
+* Secure data handling with role-specific access
+* Admin dashboard with dynamic charts and student metrics
+* Combines MERN stack power with Python automation
+
+---
+
+### 💬 LinguaBot – The Grammar Chatbot (In Progress) — *FastAPI, React, MongoDB, Gemini API*
+
+> A next-gen AI-powered English learning assistant delivering grammar correction, sentence optimization, and intelligent feedback in real-time.
+> Built on a scalable FastAPI backend with modular architecture, integrated with Gemini API for conversational AI. Powered by MongoDB, it stores and retrieves context-rich conversation history, allowing users to have fluid, intelligent interactions.
+> Secured with JWT-authenticated sessions, ensuring personalized experiences and safe data flow.
+> 🌍 *A complete AI-integrated language tool designed for the future of education.*
+
+**Key Highlights:**
+
+* Context-aware AI responses and corrections
+* Clean microservices architecture with modular FastAPI
+* Future-ready: scalable, responsive, and extensible
+* NLP integration with real-time optimization features
+
+---
+
+
+### 🧠 Wild File Server – Habit Challenge Tracker — *Node.js, Express, SOLID Principles*
+
+> Designed the complete backend architecture for a social habit-tracking system where users can join public challenges, track streaks, and build accountability.
+> Applied SOLID principles, OOP, and layered architecture (routers, services, controllers, repositories) for long-term maintainability.
+> Supports many-to-many relationships, dynamic invites, and community streak monitoring — all with Node.js excellence.
+
+**Key Highlights:**
+
+* Complex backend logic using clean code architecture
+* Public challenge system with user interaction and gamification
+* Built for scalability and high code maintainability
+
+---
+
+### 🔍 AI-Powered Web Scraping Tools — *Python, Automation, Analytics*
+
+> Developed multiple custom scrapers to extract actionable insights from academic portals.
+> Helped administration analyze student demographics, performance metrics, and generate visual dashboards using real-time data.
+> Automated retrieval of hall tickets, academic results, and detailed student stats — transforming raw HTML into decision-ready analytics.
+
+**Key Highlights:**
+
+* Python-based intelligent scraping with data cleaning
+* Institutional impact through actionable academic insights
+* End-to-end pipeline: scrape → process → visualize
+
+---
+
+### ⏱️ AI-Built Attendance Manager — *Built in 20 Minutes*
+
+> Created a functional, AI-assisted attendance solution in just 20 minutes — proving rapid prototyping and real-time application of AI tools.
+> Designed for simplicity: minimal UI, zero stress, long-term data storage.
+> Ideal for class representatives and faculty to manage attendance effortlessly.
+
+**Key Highlights:**
+
+* Time-to-productivity: 20 minutes
+* Simple UX, strong backend logic
+* Designed with educators’ real needs in mind
+
+---
+
+### 🐍 Snake Game (Python Turtle) — *Classic Game, Modern Approach*
+
+> Built under the guidance of Dr. Angela Yu, this project reimagines the nostalgic snake game using the Turtle Python module.
+> Demonstrates clear command over game loops, OOP in Python, and graphics handling.
+> A solid showcase of logic-based game dev fundamentals and a love for classic algorithms.
+
+**Key Highlights:**
+
+* Core game logic implementation in Python
+* Object-oriented design in a simple environment
+* Classic meets modern coding practices
+
+my skills: with rated out of 5:
+programming languages : python (4) , java(3.5) , c(2.5) , javascript(2)
+web development : react(3) , node(3) , express(3) , bootstrap , tailwind , mongoose
+data bases and version control : sql , mongodb , git, git hub , mysql
+tools  : vs code , google collab , postman , thunderclient , vercel , render
+data science : numpy , pandas , matplotlib 
+aiml : enthusiasit
+
+
+
+upcoming :
+
+grammerai:
+a project that talks to human and corrects the grammer and optimise the sentenses
+developing with nlp , python , django
+
+skills : 
+cloud services : aws cloud services
+
+portfolio
+
+
+
+
+
+
+
+
+
+
+today what i did
+
+daily problems 
+scalaras dp 5
+nptl dl week - 3
+mini project djan
