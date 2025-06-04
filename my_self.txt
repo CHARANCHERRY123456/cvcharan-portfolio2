@@ -75,10 +75,17 @@ manging groups consisting of nearly 400 students which is official out cse branc
 and another group to share the content to all the students of my branch mates
 
 
+-------------------------------------                      Experience       ----------------------------------------------------------------
 
-experience:
+Experience (Learn Square ) Role -> Software Developer Intern(may-5-2025 - cur) : 
 
-### 🌐 Frontend Developer – CDPC Portal, SRC — *React, TailwindCSS, JWT*
+I got selected for the Internship in as a Software Developer Intern where i am given a assignment to complete the project voice based delivery application 
+where the application should be able to control the total product with the voice and with hands also
+this have the features like order a product by seeing the reviews and tract the delivery locaition and role based users like the users are clients and drivers
+
+
+
+ Frontend Developer – CDPC Portal, SRC — *React, TailwindCSS, JWT , framermotion*
 
 > Spearheaded the frontend for a live career development portal, collaborating with SRC in real-time agile sprints.
 > Delivered a lightning-fast, responsive UI using React and TailwindCSS, secured with JWT role-based access.
@@ -92,11 +99,11 @@ experience:
 
 Projects :
 
-### 🚀 RkvBros Academic Portal — *MERN, Python Scraping, JWT, Recharts*
+1)RkvBros Academic Portal — *MERN, Python Scraping, JWT, Recharts*
 
 > A full-scale, scalable academic ecosystem powering 100+ real-time users with blazing-fast search, secure assignment sharing, and live group chats.
 > Leveraged Python-based dynamic web scraping to sync external academic data seamlessly. Implemented role-based authentication using JWT to ensure secure, granular access. Integrated Recharts for powerful, interactive admin analytics dashboards.
-> 🔥 *Showcases advanced system architecture, modular backend logic, and real-world impact at scale.*
+> Showcases advanced system architecture, modular backend logic, and real-world impact at scale.*
 
 **Key Highlights:**
 
@@ -107,38 +114,36 @@ Projects :
 
 ---
 
-### 💬 LinguaBot – The Grammar Chatbot (In Progress) — *FastAPI, React, MongoDB, Gemini API*
+2)LinguaBot – The Grammar Chatbot (In Progress) — FastAPI, React, MongoDB, Gemini API
 
-> A next-gen AI-powered English learning assistant delivering grammar correction, sentence optimization, and intelligent feedback in real-time.
-> Built on a scalable FastAPI backend with modular architecture, integrated with Gemini API for conversational AI. Powered by MongoDB, it stores and retrieves context-rich conversation history, allowing users to have fluid, intelligent interactions.
-> Secured with JWT-authenticated sessions, ensuring personalized experiences and safe data flow.
-> 🌍 *A complete AI-integrated language tool designed for the future of education.*
-
-**Key Highlights:**
-
-* Context-aware AI responses and corrections
-* Clean microservices architecture with modular FastAPI
-* Future-ready: scalable, responsive, and extensible
-* NLP integration with real-time optimization features
+    > A next-gen AI-powered English learning assistant delivering grammar correction, sentence optimization, and intelligent feedback in real-time.
+    > Built on a scalable FastAPI backend with modular architecture, integrated with Gemini API for conversational AI. Powered by MongoDB, it stores and retrieves              context-rich conversation history, allowing users to have fluid, intelligent interactions.
+    > Secured with JWT-authenticated sessions, ensuring personalized experiences and safe data flow.
+    > A complete AI-integrated language tool designed for the future of education.*
+    
+    Key Highlights:
+      * Context-aware AI responses and corrections
+      * Clean microservices architecture with modular FastAPI
+      * Future-ready: scalable, responsive, and extensible
+      * NLP integration with real-time optimization features
 
 ---
 
 
-### 🧠 Wild File Server – Habit Challenge Tracker — *Node.js, Express, SOLID Principles*
+3) Wild File Server – Habit Challenge Tracker — *Node.js, Express, SOLID Principles
 
 > Designed the complete backend architecture for a social habit-tracking system where users can join public challenges, track streaks, and build accountability.
 > Applied SOLID principles, OOP, and layered architecture (routers, services, controllers, repositories) for long-term maintainability.
 > Supports many-to-many relationships, dynamic invites, and community streak monitoring — all with Node.js excellence.
 
-**Key Highlights:**
-
+Key Highlights:
 * Complex backend logic using clean code architecture
 * Public challenge system with user interaction and gamification
 * Built for scalability and high code maintainability
 
 ---
 
-### 🔍 AI-Powered Web Scraping Tools — *Python, Automation, Analytics*
+4) AI-Powered Web Scraping Tools — *Python, Automation, Analytics*
 
 > Developed multiple custom scrapers to extract actionable insights from academic portals.
 > Helped administration analyze student demographics, performance metrics, and generate visual dashboards using real-time data.
@@ -152,7 +157,7 @@ Projects :
 
 ---
 
-### ⏱️ AI-Built Attendance Manager — *Built in 20 Minutes*
+5) AI-Built Attendance Manager — *Built in 20 Minutes*
 
 > Created a functional, AI-assisted attendance solution in just 20 minutes — proving rapid prototyping and real-time application of AI tools.
 > Designed for simplicity: minimal UI, zero stress, long-term data storage.
@@ -166,7 +171,7 @@ Projects :
 
 ---
 
-### 🐍 Snake Game (Python Turtle) — *Classic Game, Modern Approach*
+6) 🐍 Snake Game (Python Turtle) — *Classic Game, Modern Approach*
 
 > Built under the guidance of Dr. Angela Yu, this project reimagines the nostalgic snake game using the Turtle Python module.
 > Demonstrates clear command over game loops, OOP in Python, and graphics handling.
@@ -188,29 +193,5 @@ aiml : enthusiasit
 
 
 
-upcoming :
-
-grammerai:
-a project that talks to human and corrects the grammer and optimise the sentenses
-developing with nlp , python , django
-
-skills : 
-cloud services : aws cloud services
-
-portfolio
 
 
-
-
-
-
-
-
-
-
-today what i did
-
-daily problems 
-scalaras dp 5
-nptl dl week - 3
-mini project djan
