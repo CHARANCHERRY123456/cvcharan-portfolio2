@@ -133,8 +133,26 @@ Projects :
    * Secure data handling with role-specific access
    * Admin dashboard with dynamic charts and student metrics
    * Combines MERN stack power with Python automation
+   my-words : 
+     rkv-bros : 
+college protal which have the real time data and I have scrapped the data from the websites using python web scrapping and pre processed the data with the pandas and prepared and stored the date in csv and picked files 
+
+and now with that data I have created the website using mern 
+1) make everyone to login and if they are related to out college then they can able to the data 
+2) for those who login with college data they can securely see their data and can't directly access others data 
+3)and they can able to search with the student name email phone number branch gender and many other fields
+4)if they want to see other persons details they need to send the request like add friend request 
+5) if other person accepted the request then he can able to see that persons profile
+6) in the profile include name , gender , phone no , ranks , marks , class details , and all data image , graph of the marks they got on previous seminsters
+7) separate dashborad page for the which shows graph male vs female , which district have more students and all many more details in the graph
+8) a group chatting feature they can message to their friends without knowing that who sent this message its like a secret message
+9) and a port for new releases and new results here I have also included google oauth , used recharts , socket io 
+10) person can able to create a group chats so that every now who are interested in that group should able to join and enjoy in group 
+11)in future I am going to add the placements preparation section 
 
 ---
+
+
 
 1.2) Ask-Bro MERN + GEMINI API + LAANGCHAIN : 
     it is a project in which i have enabled this to commuincate directly with the data base without knowing the sql using the gemini api and laangchain
