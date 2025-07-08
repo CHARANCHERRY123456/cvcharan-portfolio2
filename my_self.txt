@@ -209,6 +209,9 @@ Projects :
     * Object-oriented design in a simple environment
     * Classic meets modern coding practices
 
+7)i have did the book-review system which is really very very good working really its very very high level but the problem is it don't have much more features it is jsut seeing and searching books and see them and give rating but the code base is the solid one it is really more than a high production level i have did it with mern stack but all good practices like folder structure , etc
+
+8) projct is like the chat gpt clone with image and text generation context aware ai and total project is built with ai agents and used tech stacks like next.js , superbase , auth 0 all unknown skills it is showing the best ai utilisation like bolt and copilot
 
 
 
