@@ -80,13 +80,34 @@ and another group to share the content to all the students of my branch mates
 
 Experience (Learn Square ) Role -> Software Developer Intern(may-5-2025 - cur) : 
 
-I got selected for the Internship in as a Software Developer Intern where i am given a assignment to complete the project voice based delivery application 
-where the application should be able to control the total product with the voice and with hands also
-this have the features like order a product by seeing the reviews and tract the delivery locaition and role based users like the users are clients and drivers
+first i got selected for the learnsquare but its bad I didn't receive any stiphend 
+intrestingly I got another 10k internship but I can't joined because I don't of Idon't have a good laptop to support their code base
+
+okay coming to this internship I have selected for college with coding rounds and assignments and quizzes and I have placed first in each and every round and always be in the top position
+after I got for internship and in full stack developer intern role assigned me a project of quick delivery app lite application and given formed a team of three members and I am the leading role of the project
+
+what we did in the project is 
+1) created a repository and initialsed and have created entire project and fronted backend integration so that we came up with the top level view of our project and 
+in the first week we have implemented the authentication functionalities
+next a customer can create delivery and driver can see all the list of deliveries and accept it
+after accepting the driver and customer can able to track their own orders/deliveries
+after that we have made a advanced search functionalities to search with status like pending , accepted , in-transist , assigned , delivered cancelled and after delivery one user can give one review and driver can able t to see it and a profile page and personalised dashboards with the roles like customer , driver , admin
+
+whats I think great in it
+1) feature -based folder structure scalable maintainable folder structure with dry and solid principles
+2) google auth , OTP base verification 
+3) cliudinary , gemini API for price prediction , integrated maps forbetter experience
+4) followed spring and agile mode with standups , meets, reviews , presentations , github collaborations etc
+5) advanced search functionalities , pagination , lazy loading
+6) socket.io chat features
+7)coins and coupons for gamify experience
+8)trying to integrate voice but not yet completed
+9)mailing functionality and top verification after delivery and also always sending respective mails to the users for realtime notifications and updates
+tech stack : mern , gemini API , tailwind , leaflet ,socket io also include recharts but still I didn't implemented it
 
 
 
- Frontend Developer – CDPC Portal, SRC — *React, TailwindCSS, JWT , framermotion*
+2) Frontend Developer – CDPC Portal, SRC — *React, TailwindCSS, JWT , framermotion*
 
 > Spearheaded the frontend for a live career development portal, collaborating with SRC in real-time agile sprints.
 > Delivered a lightning-fast, responsive UI using React and TailwindCSS, secured with JWT role-based access.
