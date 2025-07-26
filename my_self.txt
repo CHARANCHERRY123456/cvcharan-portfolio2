@@ -122,6 +122,8 @@ tech stack : mern , gemini API , tailwind , leaflet ,socket io also include rech
 Projects :
 
 1)RkvBros Academic Portal — *MERN, Python Scraping, JWT, Recharts*
+ live :  https://rkv-bros.vercel.app/
+ github : https://github.com/CHARANCHERRY123456/rkv-bros/
 
    > A full-scale, scalable academic ecosystem powering 100+ real-time users with blazing-fast search, secure assignment sharing, and live group chats.
    > Leveraged Python-based dynamic web scraping to sync external academic data seamlessly. Implemented role-based authentication using JWT to ensure secure, granular         access. Integrated Recharts for powerful, interactive admin analytics dashboards.
@@ -151,6 +153,11 @@ and now with that data I have created the website using mern
 11)in future I am going to add the placements preparation section 
 
 ---
+
+
+
+
+
 
 
 
