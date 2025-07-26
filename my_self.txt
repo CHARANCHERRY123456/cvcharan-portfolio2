@@ -159,12 +159,15 @@ and now with that data I have created the website using mern
     it will give the answers and also sometimes give the charts that is used to show the analysis of the data base
 
 2)LinguaBot – The Grammar Chatbot (In Progress) — FastAPI, React, MongoDB, Gemini API
-
+    > this is mini project of 3 members and i have lead the team and played a role of backend developer
     > A next-gen AI-powered English learning assistant delivering grammar correction, sentence optimization, and intelligent feedback in real-time.
     > Built on a scalable FastAPI backend with modular architecture, integrated with Gemini API for conversational AI. Powered by MongoDB, it stores and retrieves              context-rich conversation history, allowing users to have fluid, intelligent interactions.
     > Secured with JWT-authenticated sessions, ensuring personalized experiences and safe data flow.
     > A complete AI-integrated language tool designed for the future of education.*
-    
+    > built and fine tuned a model to generate the corrected messages and for advanced replies using the gemini API
+    > this website is a cross platform where we have developed the flutter and react 
+    > it will correct the given grammer and also speak to us with enabled voice control to improve the speaking skills 
+    > in the react part it is more robust and more userfriednly to create and profile photos etc with jwt authentication
     Key Highlights:
       * Context-aware AI responses and corrections
       * Clean microservices architecture with modular FastAPI
