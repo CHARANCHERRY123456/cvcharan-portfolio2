@@ -12,7 +12,7 @@ objective :
 
 -------------------------------------------------              OBJECTIVE        ------------------------------------------------------------
 
-Aspiring Full Stack Developer with a strong foundation in the MERN stack, currently seeking opportunities in software development to enter the tech industry.
+Aspiring SDE Roles,Full Stack Developer with a strong foundation in the MERN stack, currently seeking opportunities in software development to enter the tech industry.
 My short-term goal is to contribute to impactful full-stack projects in fast-paced environments, while continuously upskilling and expanding into the field of Data Science. 
 I am committed to securing a very high-paying role where I can apply my problem-solving skills, modern tech stack knowledge, and real-world project experience.
 My long-term vision is to achieve financial stability, lead a peaceful life, and ensure the safety, happiness, and well-being of my parents and family through professional success.

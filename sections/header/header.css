@@ -1,0 +1,143 @@
+/* ==================== HEADER OPTIMIZED STYLES ==================== */
+
+/* Logo Styling */
+.nav__logo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-decoration: none;
+    color: var(--title-color);
+    font-weight: var(--font-bold);
+    transition: color 0.3s;
+}
+
+.nav__logo:hover {
+    color: var(--first-color);
+}
+
+.logo-name {
+    font-size: 1.25rem;
+    line-height: 1.1;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+}
+
+.logo-title {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--first-color);
+    margin-top: 0.1rem;
+    opacity: 0.9;
+}
+
+/* Enhanced Navigation Links with SEO tooltips */
+.nav__link {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.nav__link:hover {
+    color: var(--first-color);
+    transform: translateY(-2px);
+}
+
+/* CTA Button in Header */
+.nav__cta-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    background: linear-gradient(135deg, var(--first-color), var(--first-color-alt));
+    color: #fff;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(79, 172, 254, 0.3);
+    margin-right: 0.5rem;
+}
+
+.nav__cta-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4);
+    background: linear-gradient(135deg, var(--first-color-alt), var(--first-color));
+}
+
+.nav__cta-btn span {
+    display: none;
+}
+
+/* Updated Icons for better relevance */
+.nav__list .nav__link[href="#skills"] .nav__icon {
+    color: #61dafb; /* React blue */
+}
+
+.nav__list .nav__link[href="#portfolio"] .nav__icon {
+    color: #f7df1e; /* JavaScript yellow */
+}
+
+.nav__list .nav__link[href="#contact"] .nav__icon {
+    color: #25d366; /* Success green */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 767px) {
+    .logo-name {
+        font-size: 1.1rem;
+    }
+    
+    .logo-title {
+        font-size: 0.7rem;
+    }
+    
+    .nav__cta-btn span {
+        display: none;
+    }
+    
+    .nav__cta-btn {
+        padding: 0.4rem;
+        border-radius: 50%;
+        width: 2.5rem;
+        height: 2.5rem;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .nav__cta-btn span {
+        display: inline;
+    }
+}
+
+/* Active state for current section */
+.nav__link.active-link {
+    color: var(--first-color);
+    font-weight: var(--font-semi-bold);
+}
+
+.nav__link.active-link::after {
+    content: '';
+    position: absolute;
+    bottom: -0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 4px;
+    height: 4px;
+    background-color: var(--first-color);
+    border-radius: 50%;
+}
+
+/* Accessibility improvements */
+.nav__link:focus,
+.nav__cta-btn:focus {
+    outline: 2px solid var(--first-color);
+    outline-offset: 2px;
+}
+
+/* Performance optimization - will-change for animations */
+.nav__link,
+.nav__cta-btn,
+.nav__logo {
+    will-change: transform;
+}
