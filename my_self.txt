@@ -241,6 +241,18 @@ and now with that data I have created the website using mern
 8) projct is like the chat gpt clone with image and text generation context aware ai and total project is built with ai agents and used tech stacks like next.js , superbase , auth 0 all unknown skills it is showing the best ai utilisation like bolt and copilot
 
 
+9)Whats app chat analyser | python , streamlit , pandas , matplotlib , scikitlearn |github
+1) it takes the input from chat file (extracted chat from whats app and upload it in 24 hours forat) and upload in the website
+2) after uploading it will show the list of users who are in the chat and show the analytics in the overall group or chat and also for a particualr user
+3) the includes many features like number of messages , total media shares , total words  , linkes shares
+4) show the montly time line , daily time line , activity map , most busy day , most busy month
+5) weakly activity map , most busy users , and user vs percentae of chat
+6) world cloud used to make the max no of words used , and types of words users
+7) shows the common words used and it will help to make to know about which type of group it is 
+8) emoji analysis  with emoji vs coutn and emojis pie chart 
+
+
+
 
 
 
